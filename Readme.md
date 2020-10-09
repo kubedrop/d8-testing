@@ -12,6 +12,7 @@ are documented in the table below.
 |   PHP version | .env         | PHP_VERSION  |     7.3      |
 |  Project name | .env         | PROJECT_NAME |     drupal8  |
 
+
 ---
 ## NOTE:
 Due to an issue as of now PHP_VERSION has to be updated in Tiltfile as well.
